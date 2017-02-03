@@ -1,0 +1,13 @@
+/*This stylesheet formats the index.html page*/
+#ex {
+    font-style: italic;
+}
+
+#red_button {
+    color: red;
+}
+
+#general_button {
+    color: green;
+}
+
